@@ -129,6 +129,7 @@
 - Ronit Kunkolienker @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
+- [Muhammed Arfaq R V](https://github.com/Muhammed-Arfaq)
 - [Adlizone](https://github.com/adlizone)
 - [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
 - [Palak Sinha](https://github.com/sinhapalak)
